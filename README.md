@@ -4,7 +4,7 @@
 
 Estudo e desenvolvo projetos focando em criar **aplicações web modernas** e **bem estruturadas**. <br>
 Tenho foco no ecossistema **React, Tailwind CSS, Clean Code** e **componentização inteligente**.<br>
-Também tenho uma boa base em **Back-End (Node.js, SQL & Java)**, o que me dá uma visão completa do desenvolvimento de produtos.
+Também tenho uma base em **Back-End (Node.js, SQL & Java)**, o que me dá uma visão completa do desenvolvimento de produtos.
 
 ---
 
