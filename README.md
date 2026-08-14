@@ -1,16 +1,14 @@
-# Hi 👋, I'm Herbert Souza
+# 👨‍💻 Luan Lumertz
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+🚀 **Desenvolvedor Front-End | Focado em React, Next.js & TypeScript**
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Estudo e desenvolvo projetos focando em criar **aplicações web modernas** e **bem estruturadas**. <br>
+Tenho foco no ecossistema **React, Tailwind CSS, Clean Code** e **componentização inteligente**.<br>
+Também tenho uma boa base em **Back-End (Node.js, SQL & Java)**, o que me dá uma visão completa do desenvolvimento de produtos.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/luanlumertz">
@@ -20,20 +18,24 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://instagram.com/luan_lumertz">
     <img src="https://img.shields.io/badge/Instagram-luan--lumertz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <br>
+  <a href="https://discordapp.com/users/luuan__">
+    <img src="https://img.shields.io/badge/Discord-luuan__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 No que venho me aprofundando
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+- 🎨 Interfaces modernas, responsivas e acessíveis
+- 🧩 Componentização inteligente & Clean Code
+- ⚡ Performance no Front-End com Next.js & React
+- 🔗 Integração de APIs REST com Front-End
+- 🛠️ Criação de APIs e rotas no Back-End (Node.js & Express)
+- 🗄️ Modelagem de dados e consultas SQL com Prisma
+- 🚀 Boas práticas de versionamento com Git & GitHub
+- 📚 Aprendizado contínuo e evolução constante de código
 
 ---
 
@@ -67,18 +69,15 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanlumertz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanlumertz&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=luanlumertz" alt="Estatísticas do GitHub" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luanlumertz" alt="Linguagens mais usadas" />
+  </a>
 </p>
 
 ---
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
