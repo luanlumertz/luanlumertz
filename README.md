@@ -14,19 +14,19 @@ Estou em constante evolução, desenvolvendo projetos que me permitem aprofundar
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luan-lumertz-leffa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Luan_Lumertz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/luan-lumertz-leffa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Luan_Lumertz-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMS4xNDZDMCAuNTEzLjUyNiAwIDEuMTc1IDBoMTMuNjVDMTUuNDc0IDAgMTYgLjUxMyAxNiAxLjE0NnYxMy43MDhjMCAuNjMzLS41MjYgMS4xNDYtMS4xNzUgMS4xNDZIMS4xNzVDLjUyNiAxNiAwIDE1LjQ4NyAwIDE0Ljg1NHptNC45NDMgMTIuMjQ4VjYuMTY5SDIuNTQydjcuMjI1em0tMS4yLTguMjExYy44MzcgMCAxLjM1OC0uNTU0IDEuMzU4LTEuMjQ4LS4wMTUtLjcwOS0uNTItMS4yNDgtMS4zNDItMS4yNDhTMi40IDMuMjI2IDIuNCAzLjkzNWMwIC42OTQuNTIxIDEuMjQ4IDEuMzI3IDEuMjQ4em00LjkwOCA4LjIxMVY5LjM1OWMwLS4yMTYuMDE2LS40MzIuMDgtLjU4Ni4xNzMtLjQzMS41NjgtLjg3OCAxLjIzMi0uODc4Ljg2OSAwIDEuMjE2LjY2MiAxLjIxNiAxLjYzM3YzLjg2NmgyLjQwMVY5LjI1YzAtMi4yMi0xLjE4NS0zLjI1Mi0yLjc2Ni0zLjI1Mi0xLjI3NCAwLTEuODQ1LjctMi4xNjUgMS4xOTN2LjAyNWgtLjAxNmE1IDUgMCAwIDEgLjAxNi0uMDI1VjYuMTY5SDYuMjVjLjAzLjY3OCAwIDcuMjI1IDAgNy4yMjV6Ii8+PC9zdmc+" />
   </a>
   <br>
-  <a href="https://github.com/luanlumertz">
+  <a href="https://github.com/luanlumertz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-luanlumertz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br>
-  <a href="https://instagram.com/luan_lumertz">
+  <a href="https://instagram.com/luan_lumertz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-luan--lumertz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
-  <a href="https://discordapp.com/users/luuan__">
+  <a href="https://discordapp.com/users/luuan__" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-luuan__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
