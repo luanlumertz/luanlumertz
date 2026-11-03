@@ -14,8 +14,12 @@ Estou em constante evolução, desenvolvendo projetos que me permitem aprofundar
 ## 🌐 Onde me encontrar
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/luan-lumertz-leffa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luan_Lumertz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br>
   <a href="https://github.com/luanlumertz">
-    <img src="https://img.shields.io/badge/GitHub-luanlumertz-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-luanlumertz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br>
   <a href="https://instagram.com/luan_lumertz">
