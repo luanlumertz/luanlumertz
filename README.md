@@ -1,10 +1,13 @@
+
 # 👨‍💻 Luan Lumertz
 
-🚀 **Desenvolvedor Front-End | Focado em React, Next.js & TypeScript**
+🚀 **Desenvolvedor Full Stack | React • TypeScript • Node.js • PostgreSQL**
 
-Estudo e desenvolvo projetos focando em criar **aplicações web modernas** e **bem estruturadas**. <br>
-Tenho foco no ecossistema **React, Tailwind CSS, Clean Code** e **componentização inteligente**.<br>
-Também tenho uma base em **Back-End (Node.js, SQL & Java)**, o que me dá uma visão completa do desenvolvimento de produtos.
+Sou desenvolvedor focado na criação de **aplicações web completas**, desde interfaces modernas e responsivas até APIs, regras de negócio e bancos de dados.
+
+Tenho como principais tecnologias **React, TypeScript, Node.js, Express e PostgreSQL**, buscando aplicar boas práticas de arquitetura, organização de código e testes automatizados.
+
+Estou em constante evolução, desenvolvendo projetos que me permitem aprofundar meus conhecimentos e enfrentar desafios reais de desenvolvimento de software.
 
 ---
 
@@ -28,14 +31,13 @@ Também tenho uma base em **Back-End (Node.js, SQL & Java)**, o que me dá uma v
 
 ## 🧠 No que venho me aprofundando
 
-- 🎨 Interfaces modernas, responsivas e acessíveis
-- 🧩 Componentização inteligente & Clean Code
-- ⚡ Performance no Front-End com Next.js & React
-- 🔗 Integração de APIs REST com Front-End
-- 🛠️ Criação de APIs e rotas no Back-End (Node.js & Express)
-- 🗄️ Modelagem de dados e consultas SQL com Prisma
-- 🚀 Boas práticas de versionamento com Git & GitHub
-- 📚 Aprendizado contínuo e evolução constante de código
+- 🎨 Desenvolvimento de interfaces responsivas, acessíveis e componentizadas
+- ⚙️ Construção de APIs REST, autenticação e regras de negócio
+- 🧩 Arquitetura de software, separação de responsabilidades e Clean Code
+- 🗄️ Modelagem de bancos de dados relacionais com PostgreSQL e Prisma
+- 🧪 Testes automatizados (unitários, integração e E2E)
+- 🐳 Conteinerização com Docker e integração contínua com GitHub Actions
+- 📚 Documentação técnica e boas práticas de desenvolvimento
 
 ---
 
@@ -43,26 +45,48 @@ Também tenho uma base em **Back-End (Node.js, SQL & Java)**, o que me dá uma v
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-### Backend
+### Backend & Banco de Dados
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### DevOps & Tools
+### Testes & Qualidade
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-555555?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+### Infraestrutura & Deploy
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black)
+
+### Ferramentas & Documentação
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
